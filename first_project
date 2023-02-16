@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        HTML 201: Project
+    </title>
+    <link rel="icon" type="avif" href="2023_photo.avif">
+</head>
+<body style="background-color: darkkhaki;">
+    <table width=100% style="background-color: rgb(255, 255, 255);">
+        <th style="text-align: center; background-color: darkkhaki;" width="100%" colspan="2">
+            Welcome to my page
+        </th>
+        <tr style="background-color: darkkhaki;">
+            <td colspan="1.1" rowspan="0.5">
+                <span style="text-align: center; text-decoration: solid;">
+                    Navigation:
+                </span>
+                <div>
+                    <span>
+                        <a href="https://www.instagram.com/bigkey100/"><img width ="35" height="20" src="instagram_logo.jpeg"</a>
+                    </span>
+                    <div id="top">
+                        <a href="#bottom" style="color: black;">
+                            Go to bottom of page.
+                        </a>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <span style="text-align: center; text-decoration: solid;">Content</span>
+                <div>
+                    <p>
+                        Just a couple days ago, I bought a full-stack development course with the desire to learn all of the skills neccessary to someday get a foot into the tech industry without a college degree. I am really determined to learn skills such as: HTML, CSS, JavaScript, Python, React, Bootstrap, DJango, etc. I believe that this is my 3rd or 4th day into the course and I am finally creating my first webpage using all of the HTML skills I know!! I still have a long way to go if I want to make responsive and functional programs/websites. But I am only going up from here! For this project, I am instructed to embed a video below this paragraph, so I am going to share a video of a study mix that I listen to. It helps me to keep focused. Thanks again for looking at my webpage!
+                    </p>
+                </div>
+                <div>
+                </div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/LVbUNRwpXzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </td>
+        </tr>
+        <tr style="background-color: darkkhaki;">
+           <td width="100%" colspan="2">
+            <div id="bottom" style="color: rgb(145, 139, 233); text-align: center; ">
+                <a href="#top" style="color: black">
+                    Go to top of page.
+                </a>
+            </div>
+               <div style="text-align: center;">
+                &copy; 2023
+               </div>
+           </td> 
+        </tr>
+    </table>
+</body>
+</html>
